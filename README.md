@@ -10,3 +10,7 @@ Open CV for python(for windows and ubuntu)
 Sublime text   
 Flutter (Dart)  
 Android (Java and Kotlin)
+
+
+### Youtube link for Presentation
+https://youtu.be/7fS9r_lYGgM
